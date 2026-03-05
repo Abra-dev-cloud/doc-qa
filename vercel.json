@@ -17,11 +17,5 @@
   ],
   "env": {
     "CHROMA_EPHEMERAL": "true"
-  },
-  "functions": {
-    "app/main.py": {
-      "maxDuration": 30,
-      "memory": 1024
-    }
   }
 }
