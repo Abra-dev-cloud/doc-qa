@@ -42,3 +42,5 @@ Thumbs.db
 # Uploaded files (keep out of git)
 uploads/
 *.pdf
+
+.vercel
